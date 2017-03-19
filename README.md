@@ -7,7 +7,7 @@
 
 ### Contact
 
-Please free contact us on iot.bratislava@gmail.com.
+Please free contact us on [iot.bratislava@gmail.com](iot.bratislava@gmail.com).
 
 
 <!-- ## Welcome to GitHub Pages
