@@ -1,6 +1,7 @@
-## Welcome to project Noe, by IoT Bratislava
+## Welcome to **project Noe**, by [IoT Bratislava](http://iot-ba.github.io)
 
-goals of the project_noe are:
+### Goals
+
  1. build LoRaWAN network & IoT platform for community members of IoT Bratislava in Bratislava, Slovakia
  2. expand solution for other communities around
 
